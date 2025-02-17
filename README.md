@@ -1,6 +1,10 @@
 # PD Content Protector
 
-PD Content Protector is a plugin for protecting content using custom authentication. It allows you to restrict access to posts, pages, WooCommerce products, bbPress forums, as well as categories and tags. The plugin supports two protection modes:
+PD Content Protector is a plugin for protecting content using custom authentication.
+
+![PD Content Protector is a plugin for protecting content using custom authentication](https://raw.githubusercontent.com/PhantomDraft/content-protector-wp/refs/heads/main/cover.png)
+
+It allows you to restrict access to posts, pages, WooCommerce products, bbPress forums, as well as categories and tags. The plugin supports two protection modes:
 
 - **Global Mode:**
   The entire site is protected using a specified global username and password.
